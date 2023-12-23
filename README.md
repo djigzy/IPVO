@@ -6,6 +6,8 @@ Prvi korak je priprema okoline, odnosno preuzimanje datoteka *Dockerfile*, *dock
 
 Nakon preuzimanja datoteka, potrebno je prebaciti se u direktorij u kojem su preuzete datoteke.
 
+<br>
+
 ### Pokretanje Docker-compose-a
 
 Pokretanje docker-compose.yml datoteke vrši se naredbom:
@@ -13,6 +15,7 @@ Pokretanje docker-compose.yml datoteke vrši se naredbom:
 
 Ta naredba će preuzeti sve potrebne slike (eng. image) unutar docker-compose.yml datoteke te instalirati sve potrebne alate navedene unutar datoteke Dockerfile.
 
+<br>
 
 ### Pokretanje apache benchmarka za testiranje
 naredba za testiranje:
