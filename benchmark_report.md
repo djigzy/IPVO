@@ -105,13 +105,13 @@ U nastavku je uz pomoć grafova vizualizirano vrijeme potrebno za obradu 20000 z
 
 ![Slika 10](./assets/010_Prosječna_brzina_zahtjeva_BarChart.png)
 
-[Slika 10 - Prosječne brzine zahtjeva - više je bolje]
+[Slika 10 - Prosječne brzine zahtjeva - manje je bolje]
 <br>
 <br>
 
 ![Slika 11](./assets/011_prosječne_brzine_gledane_preko_svih_istodobnih_zahtjeva_BarChart.png)
 
-[Slika 11 -Prosječne brzine gledane preko svih istodobnih zahtjeva - više je bolje]
+[Slika 11 -Prosječne brzine gledane preko svih istodobnih zahtjeva - manje je bolje]
 <br>
 <br>
 
