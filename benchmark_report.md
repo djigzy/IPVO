@@ -103,7 +103,7 @@ U nastavku je uz pomoć grafova vizualizirano vrijeme potrebno za obradu 20000 z
 <br>
 <br>
 
-![Slika 10](./assets/010_Prosječna_brzina_zahtjeva_BarChart.png)
+![Slika 10](./assets/010_Prosječna_brzina_zahtjeva_BarChart.png)
 
 [Slika 10 - Prosječne brzine zahtjeva - više je bolje]
 <br>
@@ -115,7 +115,7 @@ U nastavku je uz pomoć grafova vizualizirano vrijeme potrebno za obradu 20000 z
 <br>
 <br>
 
-![Slika 12](./assets/012_najduže_vrijeme_obrade_zahtjeva_BarChart.png)
+![Slika 12](./assets/012_najduže_vrijeme_obrade_zahtjeva_BarChart.png)
 
 [Slika 12 - Najduže vrijeme obrade zahtjeva - manje je bolje]
 <br>
