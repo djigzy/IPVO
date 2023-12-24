@@ -97,7 +97,7 @@ U nastavku je uz pomoć grafova vizualizirano vrijeme potrebno za obradu 20000 z
 <br>
 <br>
 
-![Slika 9](<./assets/009_Zahtjevi_po_sekundi_(aritmeticka_sredina)_BarChart.png>)
+![Slika 9](./assets/009_Zahtjevi_po_sekundi_(aritmeticka_sredina)_BarChart.png)
 
 [Slika 9 - Prosječni broj zahtjeva po sekundi - više je bolje]
 <br>
