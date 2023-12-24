@@ -43,13 +43,13 @@ networks:
 **Simulacija opterećenja:** Korišten je alat Apache Benchmark (ab) s opcijama -c 10 -n 20000 i -c 200 -n 20000 za simuliranje opterećenja prije, tijekom i nakon privremenog kvara jednog od web-poslužitelja. Parametar _-c_ označava broj zahtjeva poslanih u određenom trenutku, a parametar _-n_ označava sveukupni broj zahtjeva koje će Apache benchmark poslati tokom testiranja. Ukoliko koristimo manji broj zahtjeva poslanih u određenom trenutku, može se dogoditi da neće biti neuspjelih paketa te će proces vrlo brzo završiti (Slika 1).
 ![Slika 1](./assets/004_small_load_without_failure.png)
 
-<p style="text-align: center;">[Slika 1]</p>
+[Slika 1]
 <br>
 <br>
 
 Kako bi simulirali opterećenje, povećamo broj zahtjeva poslanih u određenom trenutku te tako prigušimo protok podataka (eng. bottleneck) (Slika 2). ![Slika 2](./assets/001_under_load_without_failure.png)
 
-<p style="text-align: center;">[Slika 2]</p>
+[Slika 2]
 <br>
 <br>
 
@@ -57,7 +57,7 @@ Kako bi simulirali opterećenje, povećamo broj zahtjeva poslanih u određenom t
 
 ![Slika 3](./assets/003_under_load_with_failure_from_start.png)
 
-<p style="text-align: center;">[Slika 3]</p>
+[Slika 3]
 <br>
 <br>
 
@@ -67,19 +67,19 @@ U nastavku su priložene slike zaslona prije privremenog kvara (Slika 4), za vri
 
 ![Slika 4](./assets/001_under_load_without_failure.png)
 
-<p style="text-align: center;">[Slika 4]</p>
+[Slika 4]
 <br>
 <br>
 
 ![Slika 5](./assets/002_under_load_with_failure_during_testing.png)
 
-<p style="text-align: center;">[Slika 5]</p>
+[Slika 5]
 <br>
 <br>
 
 ![Slika 6](./assets/003_under_load_with_failure_from_start.png)
 
-<p style="text-align: center;">[Slika 6]</p>
+[Slika 6]
 <br>
 <br>
 
@@ -87,37 +87,37 @@ U nastavku je uz pomoć grafova vizualizirano vrijeme potrebno za obradu 20000 z
 
 ![Slika 7](./assets/007_Broj_neuspjelih_zahtjeva_BarChart.png)
 
-<p style="text-align: center;">[Slika 7 - Broj neuspješnih zahtjeva - manje je bolje]</p>
+[Slika 7 - Broj neuspješnih zahtjeva - manje je bolje]
 <br>
 <br>
 
 ![Slika 8](./assets/008_Vrijeme_potrebno_za_obradu_20000_zahtjeva_BarChart.png)
 
-<p style="text-align: center;">[Slika 8 - Vrijeme potrebno za obradu 20000 zahtjeva - manje je bolje]</p>
+[Slika 8 - Vrijeme potrebno za obradu 20000 zahtjeva - manje je bolje]
 <br>
 <br>
 
 ![Slika 9](<./assets/009_Zahtjevi_po_sekundi_(aritmeticka_sredina)_BarChart.png>)
 
-<p style="text-align: center;">[Slika 9 - Prosječni broj zahtjeva po sekundi - više je bolje]</p>
+[Slika 9 - Prosječni broj zahtjeva po sekundi - više je bolje]
 <br>
 <br>
 
 ![Slika 10](./assets/010_Prosječna_brzina_zahtjeva_BarChart.png)
 
-<p style="text-align: center;">[Slika 10 - Prosječne brzine zahtjeva - više je bolje]</p>
+[Slika 10 - Prosječne brzine zahtjeva - više je bolje]
 <br>
 <br>
 
 ![Slika 11](./assets/011_prosječne_brzine_gledane_preko_svih_istodobnih_zahtjeva_BarChart.png)
 
-<p style="text-align: center;">[Slika 11 -Prosječne brzine gledane preko svih istodobnih zahtjeva - više je bolje]</p>
+[Slika 11 -Prosječne brzine gledane preko svih istodobnih zahtjeva - više je bolje]
 <br>
 <br>
 
 ![Slika 12](./assets/012_najduže_vrijeme_obrade_zahtjeva_BarChart.png)
 
-<p style="text-align: center;">[Slika 12 - Najduže vrijeme obrade zahtjeva - manje je bolje]</p>
+[Slika 12 - Najduže vrijeme obrade zahtjeva - manje je bolje]
 <br>
 <br>
 
